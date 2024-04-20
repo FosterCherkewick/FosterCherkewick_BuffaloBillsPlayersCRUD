@@ -1,0 +1,11 @@
+# Visual Studio generated files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# .NET Scaffolding
+bin/
+obj/
