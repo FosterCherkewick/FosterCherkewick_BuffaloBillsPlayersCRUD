@@ -1,0 +1,6 @@
+@BuffaloBillsPlayersCRUD_HostAddress = http://localhost:5096
+
+GET {{BuffaloBillsPlayersCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
