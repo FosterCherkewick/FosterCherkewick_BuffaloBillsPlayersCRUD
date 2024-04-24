@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Fcher\\OneDrive - NAIT\\Documents\\new git\\FosterCherkewick_BuffaloBillsPlayersCRUD\\BuffaloBillsPlayersBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BuffaloBillsPlayersBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BuffaloBillsPlayersBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Fcher\\OneDrive - NAIT\\Documents\\new git\\FosterCherkewick_BuffaloBillsPlayersCRUD\\BuffaloBillsPlayersBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Fcher\\OneDrive - NAIT\\Documents\\new git\\FosterCherkewick_BuffaloBillsPlayersCRUD\\BuffaloBillsPlayersBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fcher\\OneDrive - NAIT\\Documents\\new git\\FosterCherkewick_BuffaloBillsPlayersCRUD\\BuffaloBillsPlayersBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fcher\\OneDrive - NAIT\\Documents\\new git\\FosterCherkewick_BuffaloBillsPlayersCRUD\\BuffaloBillsPlayersBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BuffaloBillsPlayersBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BuffaloBillsPlayersBlazor.props",
+      "PackagePath": "build\\BuffaloBillsPlayersBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BuffaloBillsPlayersBlazor.props",
+      "PackagePath": "buildMultiTargeting\\BuffaloBillsPlayersBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BuffaloBillsPlayersBlazor.props",
+      "PackagePath": "buildTransitive\\BuffaloBillsPlayersBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
